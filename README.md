@@ -3,7 +3,7 @@ A console program made in c# with parameters to encrypt a provided file, using t
 
 ## Parameters
 * **-f** file to read or mess with, use with chars ``` -f(file.txt); ``` for example
-* **-s** shift in alphabet to the right ``` -s(1); ``` for example
+* **-s** shift in alphabet to the right from 1-10 ``` -s(1); ``` for example
 * **-y** indicator to 'yeet' that file (mess with that file)
 * **-r** indicator to 'read' that file (read that file)
 
