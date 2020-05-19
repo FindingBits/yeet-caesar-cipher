@@ -15,7 +15,7 @@ A console program with parameters to encrypt a provided file, using the caesar c
 ### Yeet start file
 ![image](https://github.com/FrancesinhaMan/yeet-caesar-cipher/blob/master/image/Capturar1.PNG)
 ### Read new file
-![image](https://github.com/FrancesinhaMan/yeet-caesar-cipher/blob/master/image/Capturar2.PNG)
+![image](https://github.com/FrancesinhaMan/yeet-caesar-cipher/blob/master/image/Capturar3.PNG)
 
 ### Example of error
-![image](https://github.com/FrancesinhaMan/yeet-caesar-cipher/blob/master/image/Capturar3.PNG)
+![image](https://github.com/FrancesinhaMan/yeet-caesar-cipher/blob/master/image/Capturar2.PNG)
