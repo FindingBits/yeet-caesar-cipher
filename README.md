@@ -1,5 +1,6 @@
 # yeet-caesar-cipher
-A console program made in c# with parameters to encrypt a provided file, using the caesar cypher logic
+* A console program made in c# with parameters to encrypt a provided file, using the caesar cypher logic
+* based on a **prompt**
 
 ## Parameters
 * **-f** file to read or mess with, use with chars ``` -f(file.txt); ``` for example
